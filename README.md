@@ -2,7 +2,7 @@
 
 ## <i align="center" style="font-size:2rem">📷 BUSCADOR DE FOTOS</i>
 
-En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React, Styled Components** , para el manejo de estados **Redux** y otras herramientas como **FontAwesome**
+En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React, Styled Components** , para el manejo de estados **Redux**, para el manejo de estados ASÍNCRONOS **RTK Query** y otras herramientas como **FontAwesome**
 
  _Este proyecto fue construido con el proposito de practicar Redux_
 
@@ -20,7 +20,7 @@ La api que se utilizo fue :
 
 El estado de esta aplicacion es manejado gracias a Redux, el reducer encargado de manejar este estado es el llamado **_"SearchReducer"_**. Este mismo tiene dos principales acciones : traer los resultados de un busqueda (mas fotos de un mismo query) y realizar una nueva busqueda.
 
-El componente principal de esta aplicacion es la barra de busqueda , es en ella donde se realiza la magia . Cuando el usuario realiza una busqueda , la aplicacion realiza una peticion a la API de PIXABAY enviando parametros como **query** y el  **"numero de pagina"**(Este es otro estado que permite saber en que numero de pagina de los resultados se encuentra el usuario. Ej: Si esta en la pagina 4 significa que el pantalla ya se renderizaron previamente 120 fotos , por que por pagina se renderizan 30 )
+El componente principal de esta aplicacion es la barra de busqueda , es en ella donde se realiza la magia . Cuando el usuario realiza una busqueda , la aplicacion realiza una peticion a la API de PIXABAY con la ayuda de RTK Query enviando parametros como **query** y el  **"numero de pagina"**(Este es otro estado que permite saber en que numero de pagina de los resultados se encuentra el usuario. Ej: Si esta en la pagina 4 significa que el pantalla ya se renderizaron previamente 120 fotos , por que por pagina se renderizan 30 )
 
 Ademas coloque algunas de las categorias más normales y visitadas por los usuarios.
 
@@ -57,7 +57,7 @@ The api used was :
 
 The state of the aplication is handle thanks to Redux, the reducer in charge of hanle this state is **_"SearchReducer"_**. It has two main actions : give the results of a search (more photos of one same query) and  do a new search
 
-The main component is the search bar , magic happens in it. When the user do a search , the app do a fetch to the API of PIXABAY sending parameters like : **query** and **number of page** (This is another state that allow to the api know the results number of page .Ex: If the page is four this means that in the screen had rendered 120 pictures because per page it renders 30 pictures)
+The main component is the search bar , magic happens in it. When the user do a search , the app do a fetch to the API of PIXABAY thanks to RTK Query sending parameters like : **query** and **number of page** (This is another state that allow to the api know the results number of page .Ex: If the page is four this means that in the screen had rendered 120 pictures because per page it renders 30 pictures)
 
 I have also put some more normal categories and visited  for the users.
 
