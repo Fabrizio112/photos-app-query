@@ -1,10 +1,10 @@
 # <img style="padding-right:0.5rem" src='https://img.freepik.com/vector-premium/bandera-argentina-bandera-argentina-ilustracion-vectorial_685751-66.jpg' width="50px" >  <span style="font-size:3rem">ESPAÑOL:</span>
 
-## <i align="center" style="font-size:2rem">📣 BUSCADOR DE FOTOS</i>
+## <i align="center" style="font-size:2rem">📣 Aplicacion buscadora de imagenes con RTK Query</i>
 
 En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React, Styled Components** , para el manejo de estados **Redux**, para el manejo de estados ASÍNCRONOS **RTK Query** y otras herramientas como **FontAwesome**
 
- _Este proyecto fue construido con el proposito de practicar Redux_
+ _Este proyecto fue construido con el proposito de practicar Redux and RTK Query_
 
 **Nota: Es responsivo**
 <p align="center">
@@ -37,11 +37,11 @@ Para los estilos utilice Styled Components por que considere que en esta aplicac
 
 # <img style="padding-right:0.5rem" src="https://img.freepik.com/vector-premium/gran-bretana-bandera-bandera-inglaterra-vector-icono-reino-unido-bandera-gran-bretana-10-eps_800531-104.jpg" width="50px"> <span style="font-size:3rem">ENGLISH:</span>
 
-## <i align="center" style="font-size:2rem">📹 SEARCH PHOTOS</i>
+## <i align="center" style="font-size:2rem">📹 Photos App with RTK Query</i>
  
 In this project was used hooks like  **useState,useEffect** , technologies like  **HTML,CSS,JavaScript,React, Styled Components** , for  handle states **Redux** , for handle ASYNCHRONOUS states **RTK Query** and other tools like **FontAwesome**
 
-_This project was built to practising Redux_
+_This project was built to practising Redux and RTK Query_
 
 **Note: It´s responsive**
 <p align="center">
