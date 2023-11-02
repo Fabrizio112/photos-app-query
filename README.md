@@ -8,7 +8,7 @@ En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  
 
 **Nota: Es responsivo**
 <p align="center">
-<img width="600px" heigth="600px" src="./src/assets/spiderman.gif" alt="spiderman foto">
+<img width="600px" heigth="600px" src="./src/assets/chavo-camara.gif" alt="El chavo del Ocho con una camara">
 </p>
 
 ## 💡 Como se penso este proyecto y como funciona
@@ -37,7 +37,7 @@ Para los estilos utilice Styled Components por que considere que en esta aplicac
 
 # <img style="padding-right:0.5rem" src="https://img.freepik.com/vector-premium/gran-bretana-bandera-bandera-inglaterra-vector-icono-reino-unido-bandera-gran-bretana-10-eps_800531-104.jpg" width="50px"> <span style="font-size:3rem">ENGLISH:</span>
 
-## <i align="center" style="font-size:2rem">📹 Photos App with RTK Query</i>
+## <i align="center" style="font-size:2rem">🔊 Photos App with RTK Query</i>
  
 In this project was used hooks like  **useState,useEffect** , technologies like  **HTML,CSS,JavaScript,React, Styled Components** , for  handle states **Redux** , for handle ASYNCHRONOUS states **RTK Query** and other tools like **FontAwesome**
 
@@ -45,7 +45,7 @@ _This project was built to practising Redux and RTK Query_
 
 **Note: It´s responsive**
 <p align="center">
-<img width="600px" heigth="600px" src="./src/assets/muppet.gif" alt="muppet">
+<img width="600px" heigth="600px" src="./src/assets/chad-camara.gif" alt="Chad Camara">
 </p>
 
 ## 🤔 How this project was thinked and how it works
