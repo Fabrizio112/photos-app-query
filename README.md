@@ -2,7 +2,7 @@
 
 ## <i align="center" style="font-size:2rem">📣 Aplicacion buscadora de imagenes con RTK Query</i>
 
-En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React, Styled Components** , para el manejo de estados **Redux**, para el manejo de estados ASÍNCRONOS **RTK Query** y otras herramientas como **FontAwesome**
+En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React, Styled Components** , para el manejo de estados **Redux**, para el manejo de estados ASÍNCRONOS **RTK Query** y otras herramientas como **FontAwesome**.
 
  _Este proyecto fue construido con el proposito de practicar Redux and RTK Query_
 
